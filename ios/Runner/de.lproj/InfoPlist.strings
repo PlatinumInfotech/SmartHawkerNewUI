@@ -1,0 +1,3 @@
+PermissionGroupNotification = "Wir verwenden Benachrichtigungen, um Sie an Ihr Abonnement zu erinnern.";
+NSMicrophoneUsageDescription = "Erlauben";
+NSBluetoothAlwaysUsageDescription = "Erlauben";

@@ -1,0 +1,4 @@
+PermissionGroupNotification = "We use notifications to remind you about your subscription.";
+NSMicrophoneUsageDescription = "Allow";
+NSBluetoothAlwaysUsageDescription = "Allow";
+NSSpeechRecognitionUsageDescription = "We use speech recognition to let you add or update data using your voice.";

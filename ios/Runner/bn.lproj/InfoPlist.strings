@@ -1,0 +1,3 @@
+PermissionGroupNotification = "আপনার সাবস্ক্রিপশন সম্পর্কে আপনাকে মনে করিয়ে দেওয়ার জন্য আমরা বিজ্ঞপ্তি ব্যবহার করি।";
+NSMicrophoneUsageDescription = "অনুমতি দিন";
+NSBluetoothAlwaysUsageDescription = "অনুমতি দিন";

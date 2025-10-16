@@ -1,0 +1,3 @@
+PermissionGroupNotification = "మీ సభ్యత్వం గురించి మీకు గుర్తు చేయడానికి మేము నోటిఫికేషన్‌లను ఉపయోగిస్తాము.";
+NSMicrophoneUsageDescription = "అనుమతించు";
+NSBluetoothAlwaysUsageDescription = "అనుమతించు";

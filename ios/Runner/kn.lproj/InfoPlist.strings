@@ -1,0 +1,3 @@
+PermissionGroupNotification = "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯ ಕುರಿತು ನಿಮಗೆ ನೆನಪಿಸಲು ನಾವು ಅಧಿಸೂಚನೆಗಳನ್ನು ಬಳಸುತ್ತೇವೆ.";
+NSMicrophoneUsageDescription = "ಅನುಮತಿಸಿ";
+NSBluetoothAlwaysUsageDescription = "ಅನುಮತಿಸಿ";

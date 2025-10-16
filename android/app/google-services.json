@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963424228417",
+    "project_id": "phone-authentication-y1qutr",
+    "storage_bucket": "phone-authentication-y1qutr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963424228417:android:ec3d3e54989a2db7cce2c0",
+        "android_client_info": {
+          "package_name": "com.smarthawker.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXD5LW1QdzTifUUs6T_SfVDjGP94TlYBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

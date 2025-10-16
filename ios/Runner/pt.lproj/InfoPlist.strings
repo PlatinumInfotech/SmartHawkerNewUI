@@ -1,0 +1,3 @@
+PermissionGroupNotification = "Usamos notificações para lembrá-lo sobre sua assinatura.";
+NSMicrophoneUsageDescription = "Permitir";
+NSBluetoothAlwaysUsageDescription = "Permitir";
