@@ -492,7 +492,7 @@ ${salesJSON}''';
 /// Start Smart Hawker APIs Group Code
 
 class SmartHawkerAPIsGroup {
-  static String getBaseUrl() => 'http://shprod.platinum-infotech.com:3000';
+  static String getBaseUrl() => 'https://shprod.platinum-infotech.com';
   static Map<String, String> headers = {};
   static VendorRegistrationAPICall vendorRegistrationAPICall =
       VendorRegistrationAPICall();
