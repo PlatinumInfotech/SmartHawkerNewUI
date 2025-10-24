@@ -9631,7 +9631,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'te': 'జనాదరణ పొందినది',
     },
     'zz5lc4d0': {
-      'en': 'Subscrie now',
+      'en': 'Subscribe now',
       'bn': 'এখনই সাবস্ক্রাইব করুন',
       'de': 'Jetzt anmelden',
       'es': 'Suscríbete ahora',

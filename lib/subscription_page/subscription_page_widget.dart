@@ -491,7 +491,7 @@ class _SubscriptionPageWidgetState extends State<SubscriptionPageWidget> {
                                                 FFButtonWidget(
                                                   onPressed: () async {
                                                     logFirebaseEvent(
-                                                        'SUBSCRIPTION_SUBSCRIE_NOW_BTN_ON_TAP');
+                                                        'SUBSCRIPTION_SUBSCRIBE_NOW_BTN_ON_TAP');
                                                     logFirebaseEvent(
                                                         'Button_alert_dialog');
                                                     var confirmDialogResponse =
@@ -660,7 +660,7 @@ class _SubscriptionPageWidgetState extends State<SubscriptionPageWidget> {
                                                   text: FFLocalizations.of(
                                                           context)
                                                       .getText(
-                                                    'zz5lc4d0' /* Subscrie now */,
+                                                    'zz5lc4d0' /* Subscribe now */,
                                                   ),
                                                   options: FFButtonOptions(
                                                     width: 140.0,

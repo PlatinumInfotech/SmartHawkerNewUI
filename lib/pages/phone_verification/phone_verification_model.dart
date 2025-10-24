@@ -17,8 +17,6 @@ class PhoneVerificationModel extends FlutterFlowModel<PhoneVerificationWidget> {
   String? Function(BuildContext, String?)? otpTextControllerValidator;
   // Stores action output result for [Backend Call - API (Validate OTP)] action in Button-Login widget.
   ApiCallResponse? validateOTPResponse;
-  // Stores action output result for [Custom Action - getFcmToken] action in Button-Login widget.
-  String? fcmtoken;
   // Stores action output result for [Backend Call - API (Login API)] action in Button-Login widget.
   ApiCallResponse? signInResponse;
 

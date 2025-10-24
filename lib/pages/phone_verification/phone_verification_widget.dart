@@ -2,7 +2,6 @@ import '/backend/api_requests/api_calls.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
-import '/custom_code/actions/index.dart' as actions;
 import '/index.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -418,14 +417,6 @@ class _PhoneVerificationWidgetState extends State<PhoneVerificationWidget> {
                                 }
 
                                 if (FFAppState().MobileNumber != '') {
-                                  logFirebaseEvent(
-                                      'Button-Login_custom_action');
-                                  _model.fcmtoken = await actions.getFcmToken();
-                                  _shouldSetState = true;
-                                  logFirebaseEvent(
-                                      'Button-Login_update_page_state');
-                                  _model.fcmToken = _model.fcmtoken;
-                                  safeSetState(() {});
                                   logFirebaseEvent('Button-Login_backend_call');
                                   _model.signInResponse =
                                       await SmartHawkerAPIsGroup.loginAPICall
